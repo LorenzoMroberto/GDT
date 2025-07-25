@@ -3,6 +3,8 @@
 
 Gravador de tela simples
 
+O script tem como intuito ser um gravador de tela, ele grava toda a tela incluindo barra de tarefas.
+
 Depedências: **tkinter**, **threading**, **time**, **os**, **shutil**, **ctypes**, **logging**, **mss**, **opencv-python**, **pillow**, **numpy**
 
 Use: *pip install mss opencv-python pillow numpy*
