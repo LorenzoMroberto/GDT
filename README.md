@@ -3,8 +3,8 @@
 
 Gravador de tela simples
 
-Depedências: **tkinter**, **threading**, **time**, **os**, **shutil**, **ctypes**, **logging**,
-             **mss**, **opencv-python**, **pillow**, **numpy**
+Depedências: **tkinter**, **threading**, **time**, **os**, **shutil**, **ctypes**, **logging**, **mss**, **opencv-python**, **pillow**, **numpy**
+
 Use: *pip install mss opencv-python pillow numpy*
 
 *O script é para sistemas windows 10/11*
