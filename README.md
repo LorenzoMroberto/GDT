@@ -16,7 +16,7 @@ O script tem como intuito ser um gravador de tela, ele grava toda a tela incluin
 - ✅ Gravação em MP4 com 20 FPS
 - ✅ Cursor do mouse destacado em vermelho
 - ✅ Interface simples com botões gráficos (ícones gerados dinamicamente)
-- ✅ Salva o arquivo com nome personalizado
+- ✅ Salva o arquivo com nome especificado pelo usuário
 
 | Módulo / Pacote       | Tipo                     | Observação |
 |-----------------------|--------------------------|-----------|
